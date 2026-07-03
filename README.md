@@ -30,7 +30,7 @@ In Uganda, one agricultural extension officer is often responsible for over a th
 - All personal data (farm profile, field journal, lesson progress) stored locally in the browser via `localStorage` — nothing leaves the device except the image sent for AI diagnosis
 
 ## Running it
-
+https://agrilearnai.netlify.app/ or, 
 Just open `index.html` in a modern browser — **must be served over HTTPS or from `localhost`** for the camera and weather features to work (browser security requirement for camera access). The simplest way:
 
 1. Host it via GitHub Pages (see below), or
